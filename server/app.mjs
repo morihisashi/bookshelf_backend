@@ -1,7 +1,7 @@
 import express from "express";
 import env from "dotenv";
 env.config();
-// コメント2
+// コメント3
 import apiRoutes from "./api-routes/index.mjs";
 import "./helpers/db.mjs";
 
